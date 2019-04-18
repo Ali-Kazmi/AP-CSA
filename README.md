@@ -1,2 +1,2 @@
 # AP-CSA
-AP Computer Science A. Taken at EVHS senior year (Junior year was AP Computer Science Principles). Only posting some of the labs and projects. 
+AP Computer Science A. Taken at EVHS senior year (Junior year was AP Computer Science Principles). Only posting some of the labs and projects. It was an introductory Java course, and I got an A. Here are some of the topics covered: strings, arrays (including multidimensional and jagged), arraylists, methods, OOP, inheritance, abstract classes, algorithms (and big O), importing, etc. In the end it seems like a standard intro course in java.  
